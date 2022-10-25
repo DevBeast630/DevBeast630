@@ -1,9 +1,9 @@
-# <div align="center">Hey 👋, I'm Fullstack Engineer.</div>  
+# <div align="center">Hey,👋 this is a Fullstack Engineer.</div>  
   
 
 
 
-### Glad to see you here!  
+### Nice to meet you!  
 Senior engineer with 8+ years of experience building up web & blockchain infrastructure for several organizations with combined expertise in Software Engineering and Blockchain Architecture.  
   
 
