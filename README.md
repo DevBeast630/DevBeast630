@@ -4,7 +4,7 @@
 
 
 ### Nice to see you!  
-Senior engineer with 8+ years of experience building up web & blockchain infrastructure for several organizations with combined expertise in Software Engineering and Blockchain Architecture.  
+Senior engineer with 8+ years of experience building up web & blockchain infrastructure for several organizations with combined expertise in Shopify Engineering and Blockchain Architecture.  
   
 
 <br/>  
