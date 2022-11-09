@@ -98,7 +98,7 @@ Senior engineer with 8+ years of experience building up web & blockchain infrast
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=Det-tech&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=DevBeast630&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 <br/>  
 
