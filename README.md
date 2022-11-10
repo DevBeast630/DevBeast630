@@ -13,7 +13,7 @@ Senior engineer with 8+ years of experience building up web & blockchain infrast
 ## Rapidfire  
 
 
-- 👀 I’m interested in exploring blockchain technologies, and working on anything catches my interest.  
+- 👀 I’m interested in exploring Shopify online store & blockchain technologies, and working on anything catches my interest.  
   
 
 - 💞️ I’m looking to collaborate on any of the open source projects I'm currently active in.  
