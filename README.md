@@ -4,14 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d-coder135&label=Profile%20views&color=0e75b6&style=flat" alt="d-coder135" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/d_optimist135" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="d_optimist135" height="30" width="40" /></a>
-<a href="https://fb.com/doptimist135" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="doptimist135" height="30" width="40" /></a>
-<a href="https://instagram.com/devansh__omi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="devansh__omi" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/devansh-kumar-shukla-63392a209/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="devansh-kumar-shukla-63392a209" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
