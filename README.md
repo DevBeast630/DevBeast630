@@ -73,10 +73,4 @@
 <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="25" /></a>  
 </div>  
 
-<br/>  
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-coder135&show_icons=true&locale=en&layout=compact&theme=radical&count_private=true" alt="d-coder135" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d-coder135&show_icons=true&locale=en&theme=radical&count_private=true" alt="d-coder135" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-coder135&theme=radical&count_private=true" alt="d-coder135" /></p>
+<br/>
